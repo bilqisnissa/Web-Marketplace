@@ -3649,6 +3649,7 @@ input[type="button"].btn-block {
   height: 0;
   margin: 0.5rem 0;
   overflow: hidden;
+  color: #212529;
   border-top: 1px solid #e9ecef;
 }
 
@@ -3672,7 +3673,7 @@ input[type="button"].btn-block {
 }
 
 .dropdown-item.active, .dropdown-item:active {
-  color: #fff;
+  color: #212529;
   text-decoration: none;
   background-color: #007bff;
 }
@@ -5867,6 +5868,7 @@ a.badge-dark:focus, a.badge-dark.focus {
   -webkit-box-flex: 1;
       -ms-flex: 1;
           flex: 1;
+  color: #fff;
 }
 
 .list-group {
